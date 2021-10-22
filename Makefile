@@ -1,0 +1,2 @@
+site:
+	hugo -D --noTimes

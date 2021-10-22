@@ -1,0 +1,29 @@
+theme = "hugo-theme-codex"
+
+title = "Sean Gref"
+languageCode = "en-us"
+baseURL = "http://seangref.com/"
+publishDir = "/var/www/seangref.com/html/"
+copyright = "lol"
+
+# googleAnalytics = ""
+
+[params]
+	dateFormat = "Jan 2 2006"
+	
+	twitter = "https://twitter.com/IAmSeanGref"
+	github = "https://github.com/IAmSeanGref"
+	
+	iconOrder = ["Twitter", "GitHub"]
+
+[[menu.main]]
+	identifier = "about"
+	name = "about"
+	title = "About"
+	url = "/"
+
+[[menu.main]]
+	identifier = "blog"
+	name = "blog"
+	title = "blog"
+	url = "/blog"
