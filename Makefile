@@ -1,2 +1,2 @@
 site:
-	hugo -D --noTimes
+	hugo --cleanDestinationDir --minify --noTimes
