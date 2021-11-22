@@ -4,7 +4,7 @@ date: 2021-10-27T00:14:12Z
 slug: "gotta-start-somewhere"
 description: "Good is good, but bad is better than nothing, and often a necessary first step towards good."
 keywords: [motivational, management, leadership, writing]
-draft: true
+draft: false
 tags: [motivational, management]
 math: false
 toc: false
