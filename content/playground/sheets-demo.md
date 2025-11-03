@@ -25,3 +25,5 @@ In Google Sheets, navigate to "File" > "Share" > "Publish to Web" and then follo
 You can add a link as you would normally, or if you hit the "Embed" tab in the modal, you can copy/paste the html code for the iframe like above.
 
 As you can see, it is impossible to edit the data as I did not open edit access to the underlying Google Sheet.
+
+*Note:* Anybody with access to the link above (or someone who looks at this pages source and finds the embed url) would be able to view the file, regardless of what permissions you set on the hosting page. Like how you can view this website right now.
