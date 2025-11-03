@@ -8,6 +8,10 @@ copyright = "lol"
 
 # googleAnalytics = ""
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [params]
 	dateFormat = "Jan 2 2006"
 	
