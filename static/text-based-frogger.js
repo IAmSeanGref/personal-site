@@ -243,7 +243,7 @@ Get out of here!`
     }
 
     function processPlayerInput() {
-        const command = playerInput.value;
+        const command = playerInput.value.trim().toLowerCase();
         playerInput.value = ''; // Clear the input box
         appendToOutput(command + '\n');
         processCommand(command);
